@@ -1,0 +1,10 @@
+PUT localhost:8081/events/1
+content-type: application/json
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6IjFlbWFpbEBtYWlsLnJ1IiwiZXhwIjoxNzYzMDMzMzY2LCJ1c2VySWQiOjF9.PK7p_lp3dKGmjUKMqa7fJCtYBhStyBDZdUxhF55JyuA
+
+{
+  "name": "update test",
+  "description": "update test dec",
+  "location": "update test location",
+  "dateTime": "2111-11-01T15:44:00.000Z"
+}

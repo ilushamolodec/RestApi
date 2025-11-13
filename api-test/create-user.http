@@ -1,0 +1,7 @@
+PUT localhost:8081/singup
+content-type: application/json
+
+{
+"email": "email@mail.ru",
+"password" : "test"
+}
